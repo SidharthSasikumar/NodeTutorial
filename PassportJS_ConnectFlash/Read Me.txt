@@ -1,0 +1,5 @@
+Practical(Youtube) :https://www.youtube.com/watch?v=9vmas8Pwhqc
+
+For Passportjs :http://www.passportjs.org
+
+For Connect-Flash :https://github.com/jaredhanson/connect-flash

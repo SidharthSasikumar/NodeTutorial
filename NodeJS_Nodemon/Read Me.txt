@@ -1,0 +1,6 @@
+Practical(Youtube) :https://www.youtube.com/watch?v=CJ97PdkHip8
+
+For Nodemon :https://nodemon.io/
+
+
+nodemon server.js

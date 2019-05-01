@@ -1,0 +1,11 @@
+{
+  "name": "Slack-API-Integration",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "botkit": "^0.6.7",
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "node-env-file": "^0.1.8"
+  }
+}

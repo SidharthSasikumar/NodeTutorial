@@ -1,0 +1,9 @@
+{
+  "name": "Nodedemo",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1"
+  }
+}

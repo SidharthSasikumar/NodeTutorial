@@ -1,0 +1,7 @@
+{
+  "name": "S3 upload image",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-sdk": "^2.170.0"
+  }
+}
