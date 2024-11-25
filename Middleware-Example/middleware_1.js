@@ -13,7 +13,7 @@ function log(req,res,next){
 
 function hello(req,res,next){
 
-        res.write('Hello\n'+'World');
+        res.write('Hello\n Testing'+'World');
         res.end();
         next();
 }
